@@ -2,24 +2,24 @@
 
 ### The Unified Booking and Operations Infrastructure for Modern Salons
 
-NaiBooking connects beauty and grooming customers with premier salons, stylists, and wellness professionals. We eliminate fragmented scheduling, phone tag, and double bookings by providing a seamless, real-time booking journey for customers and an all-in-one management suite for salon owners.
+Naibooking connects beauty and grooming customers with premier salons, stylists, and wellness professionals. We eliminate fragmented scheduling, phone tag, and double bookings by providing a seamless, real-time booking journey for customers and an all-in-one management suite for salon owners.
 
 ---
 
 ## Live Platforms and Official Links
 
-- Official Website: https://naibooking.com (Live Mirror: https://naibooking-www.pages.dev)
-- Partner & Salon Owner Console: https://console.naibooking.com (Live Mirror: https://naibooking-console.pages.dev)
-- Salon Partner Onboarding: https://naibooking.com/become-a-vendor
-- Beauty & Grooming Editorial Blogs: https://naibooking.com/blogs
+- Official Website: https://Naibooking.com (Live Mirror: https://Naibooking-www.pages.dev)
+- Partner & Salon Owner Console: https://console.Naibooking.com (Live Mirror: https://Naibooking-console.pages.dev)
+- Salon Partner Onboarding: https://Naibooking.com/become-a-vendor
+- Beauty & Grooming Editorial Blogs: https://Naibooking.com/blogs
 - Customer Mobile App (iOS & Android): Available on App Store and Google Play Store
-- NaiBooking Partner App (iOS & Android): Built for salon managers, front desk, and independent stylists
+- Naibooking Partner App (iOS & Android): Built for salon managers, front desk, and independent stylists
 
 ---
 
-## How Customers Use NaiBooking
+## How Customers Use Naibooking
 
-NaiBooking makes finding and scheduling top-tier salon services fast, reliable, and stress-free.
+Naibooking makes finding and scheduling top-tier salon services fast, reliable, and stress-free.
 
 ### 1. Discover Salons & Top Stylists
 - Explore verified salons near your location with high-resolution portfolios, service menus, verified customer reviews, and clear ratings.
@@ -43,12 +43,12 @@ NaiBooking makes finding and scheduling top-tier salon services fast, reliable, 
 
 ---
 
-## How Salon Owners and Partners Use NaiBooking
+## How Salon Owners and Partners Use Naibooking
 
-NaiBooking acts as an end-to-end digital operating system for salons, spas, and freelance beauty professionals, driving customer acquisition while simplifying daily operations.
+Naibooking acts as an end-to-end digital operating system for salons, spas, and freelance beauty professionals, driving customer acquisition while simplifying daily operations.
 
 ### 1. Quick Onboarding & Verification
-- Sign up directly at https://naibooking.com/become-a-vendor or via the NaiBooking Business App.
+- Sign up directly at https://Naibooking.com/become-a-vendor or via the Naibooking Business App.
 - Complete rapid KYC verification by submitting business address details and payout preferences to activate online booking.
 
 ### 2. Catalog & Menu Customization
@@ -79,7 +79,7 @@ NaiBooking acts as an end-to-end digital operating system for salons, spas, and 
 
 ## Platform Architecture
 
-NaiBooking is built with an enterprise-grade, distributed architecture designed for maximum reliability and zero downtime:
+Naibooking is built with an enterprise-grade, distributed architecture designed for maximum reliability and zero downtime:
 
 - Core API Gateway: Node.js, Express, MongoDB Atlas, and Redis session state on AWS.
 - Web & Console Endpoints: Modern Next.js applications deployed globally on Cloudflare edge network.
@@ -90,6 +90,6 @@ NaiBooking is built with an enterprise-grade, distributed architecture designed 
 
 ## Support & Partnership Inquiries
 
-- Partner Support: partner@naibooking.com
-- Customer Support: support@naibooking.com
-- Partner Portal: https://console.naibooking.com
+- Partner Support: partner@Naibooking.com
+- Customer Support: support@Naibooking.com
+- Partner Portal: https://console.Naibooking.com
