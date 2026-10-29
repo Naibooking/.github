@@ -1,4 +1,4 @@
-# NaiBooking
+# Naibooking
 
 ### The Unified Booking and Operations Infrastructure for Modern Salons
 
